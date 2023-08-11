@@ -1,0 +1,11 @@
+{
+  "name": "coding-challenges-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MoonTory/coding-challenges.git",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
